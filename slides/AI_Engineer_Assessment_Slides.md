@@ -1,7 +1,5 @@
 # Python Q&A Assistant — Slide Deck (10 slides)
 
-> Export to PDF/PPT for submission. Each `---` block is one slide.
-
 ---
 
 ## Slide 1 — Title
